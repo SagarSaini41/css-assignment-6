@@ -1,0 +1,128 @@
+.d1{
+    background-image: url(./shara\ desert.jpg);
+    /* background-color: black; */
+    height: 650px;
+    position: relative;
+    
+}
+a{
+    color: white;
+    text-decoration-line: none;
+}
+.d0{
+    height: 100px;
+    width: 100px;
+    background-image: url(./logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: 1;
+    margin-top: -400px;
+    margin-left: 70px;
+}
+
+.d2{
+    color: white;
+     margin-left: 900px;
+     margin-bottom: 50px;
+     column-gap: 100px;
+}
+.h1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-right: 100px;
+}
+
+.d3{
+
+    display: grid;
+    
+    grid-template-columns: 10px;
+    transition: 2s;
+}
+.d3 :hover{
+    transition: 2s;
+    /* margin-bottom: 20px; */
+    
+}
+
+
+
+.d4{
+    background-image: url(./pic-1.png);
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 700px;
+    transition: 2s;
+}
+.d4:hover{
+    transition: 2s;
+    box-shadow: 5px 5px 5px 5px rgb(99, 65, 1);
+}
+   
+.d5{
+    background-image: url(./pic-2.png);
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 970px;
+    margin-top: -250px;
+    transition: 2s;
+}
+.d5:hover{
+    transition: 2s;
+    box-shadow: 5px 5px 5px 5px rgb(99, 65, 1);
+}
+.d6{
+    background-image: url(./pic-3.png);
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 700px;
+    transition: 2s;
+}
+.d6:hover{
+    transition: 2s;
+    box-shadow: 5px 5px 5px 5px rgb(99, 65, 1);
+}
+.d7{
+    background-image: url(./pic-4.png);
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 970px;
+    margin-top: -250px;
+    transition: 2s;
+}
+.d7:hover{
+    transition: 2s;
+    box-shadow: 5px 5px 5px 5px rgb(99, 65, 1);
+}
+.d8{
+    height: 100px;
+    width: 200px;
+    color: white;
+    font-size: xx-large;
+    margin-top: -400px;
+    margin-left: 50px
+}
+.d9{
+    color: white;
+}
+.d10{
+    background-color: white;
+    height: 20px;
+    width: 100px;
+    border-radius: 5px;
+    color: black;
+    margin-left: 100px;
+}
